@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+}
+.table a {
+    cursor: pointer;
+}
+.btn-container {
+    width:100%;
+    display: flex;
+    justify-content: flex-start;
+}

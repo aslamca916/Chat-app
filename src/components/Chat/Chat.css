@@ -1,0 +1,28 @@
+
+.chat-div{
+    padding: 10px;
+    margin-top: 20px;
+}
+.chat-heading{
+    height:50px;
+    color:white;
+    background-color: cadetblue;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+.chat-inner {
+    height: 400px;
+    background-color: aliceblue;
+    padding: 20px;
+}
+.message-box label {
+    margin-right: 50px;
+}
+.message-box input {
+    display: inline-block;
+    width:400px !important;
+    margin-right: 40px;
+
+}
